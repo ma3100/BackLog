@@ -1,0 +1,5 @@
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper.Common\bin\Debug\BacklogHelper.Common.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper.Common\bin\Debug\BacklogHelper.Common.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper.Common\obj\Debug\BacklogHelper.Common.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper.Common\obj\Debug\BacklogHelper.Common.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper.Common\obj\Debug\BacklogHelper.Common.csprojResolveAssemblyReference.cache

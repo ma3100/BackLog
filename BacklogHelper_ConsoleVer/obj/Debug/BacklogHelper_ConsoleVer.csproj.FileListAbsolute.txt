@@ -1,0 +1,24 @@
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.exe.config
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.exe
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\Backlog4dotnet.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper.Common.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\Backlog4dotnet.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper.Common.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.csprojResolveAssemblyReference.cache
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.exe
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.pdb
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.exe.config
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.exe
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.pdb
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.exe
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper_ConsoleVer.pdb
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\Backlog4dotnet.dll
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper.Common.dll
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\Newtonsoft.Json.dll
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\Backlog4dotnet.pdb
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\BacklogHelper.Common.pdb
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\bin\Debug\Newtonsoft.Json.xml
+D:\gitNext\BacklogAPIWrapper\BacklogHelper_ConsoleVer\obj\Debug\BacklogHelper_ConsoleVer.csprojResolveAssemblyReference.cache

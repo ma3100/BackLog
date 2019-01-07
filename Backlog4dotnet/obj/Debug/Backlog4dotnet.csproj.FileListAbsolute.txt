@@ -1,0 +1,7 @@
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\bin\Debug\Backlog4dotnet.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\bin\Debug\Backlog4dotnet.pdb
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\obj\Debug\Backlog4dotnet.csprojResolveAssemblyReference.cache
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\obj\Debug\Backlog4dotnet.dll
+C:\Users\mat-sato\Documents\Visual Studio 2015\Projects\BacklogHelper_ConsoleVer\Backlog4dotnet\obj\Debug\Backlog4dotnet.pdb
